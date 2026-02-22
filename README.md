@@ -8,6 +8,9 @@
 
 Au lancement de l'application, une page de connexion s'affiche.
 Entrez vos identifiants puis appuyez sur *"Connexion"* pour accéder à l'application.
+Email administrateur: admin@store.com
+Mot de passe: Admin@2024 
+
 
 ---
 
